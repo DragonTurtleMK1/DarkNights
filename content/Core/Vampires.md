@@ -1,5 +1,6 @@
 ---
 title: Vampires
+draft: "false"
 ---
 # What is a Vampire?
 

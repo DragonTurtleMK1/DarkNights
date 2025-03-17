@@ -3,6 +3,7 @@ title: Joe Greene
 tags:
   - Character
   - PC
+draft: "false"
 ---
 Joe Greene, born "Joseph Green", was a player character from Dark Knights in San Francisco.
 ## Childhood and early life
