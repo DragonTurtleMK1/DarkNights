@@ -3,7 +3,7 @@ title: Joe Greene
 tags:
   - Character
   - PC
-draft: "false"
+draft: false
 ---
 Joe Greene, born "Joseph Green", was a player character from Dark Knights in San Francisco. He was a bitten-born werewolf.
 ## Childhood and early life
@@ -137,8 +137,8 @@ O'Donovan's badge passed between family members for a time after John reached ad
 When O'Donovan manifested, he took a physical form, which was an unexpected departure from the usual ethereal form he took. Because of this turn of events, Joe and O'Donovan were given the opportunity to go on the date they never were able to have back in the 1860's. They went to an ice cream parlor, and were able to kiss in an alleyway.
 
 This is the last time that Joe and O'Donovan would see each other, as O'Donovan's badge would soon go missing after being returned to John's descendants.
-#### Selia Greene neé Harp
-Joe met Selia Harp (known as "Miss Harp") in 1870, and quickly became quietly smitten with her. He would often come to her to fix his clothing after his outings as a werewolf, and usually would do so in a sheepish manner. Selia was always patient and understanding with Joe, never asking him any pressing questions about what he got up to that left his clothes in such a state. He grew fond of her, though understood that she had her own quiet troubles.
+#### [[Miss Harp|Selia Greene neé Harp]]
+Joe met Selia Harp (known as "[[Miss Harp]]") in 1870, and quickly became quietly smitten with her. He would often come to her to fix his clothing after his outings as a werewolf, and usually would do so in a sheepish manner. Selia was always patient and understanding with Joe, never asking him any pressing questions about what he got up to that left his clothes in such a state. He grew fond of her, though understood that she had her own quiet troubles.
 
 At one point, Selia asked Joe and the party to retrieve a seal pelt for her. After they completed this task, Joe learned that Selia was a selkie. Her personality also brightened a bit after she received her pelt.
 
@@ -150,27 +150,29 @@ Selia was initially an unmarried woman who had her own practice and house during
 
 Selia would age in line with Joe, and so despite her original fae vigor, she would gray and wrinkle when Joe would. She also would  only last about ten more years after Joe's death. When she was ready to go, she collapsed into seafoam.
 #### Κυκλάδες (aka Cid Greene)
-Κυκλάδες (or "Cyclades") came into Joe's life like an unexpected burst of springtime. The satyr was enthusiastic to see Joe when they would cross paths, and would directly address Joe more often than he would anyone else in the party. Joe fell under the belief that Κυκλάδες was messing with him, as the satyr's attention could be obnoxious.
+Κυκλάδες (or "Cyclades") came into Joe's life like an unexpected burst of springtime. The satyr always seemed enthusiastic to see Joe when they would cross paths, and he would directly address Joe more often than he would anyone else in the party.
+
+Joe did not know what to think of Κυκλάδες's cherry attitude and at first believed that the satyr was trying to mess with him. Joe's attitude softened as time went on, the shift solidifying after Κυκλάδες asked for help finding a job. Joe not only recommended becoming a mailman, but helped Κυκλάδες learn how to read English. They grew closer over the course of the writing lessons.
 
 ### Family
 #### Children
 ##### [[John Greene]]
 Test
-##### Mary Greene
+##### [[Mary Greene]]
 Test
-##### Beth Greene
+##### [[Beth Greene]]
 Test
-##### Ruth Greene
+##### [[Ruth Greene]]
 Test
-##### Edith Greene
+##### [[Edith Greene]]
 Test
-##### Isaiah Greene
+##### [[Isaiah Greene]]
 Test
-##### Dolores Green
+##### [[Dolores Green]]
 Test
 ### Other NPCs
 
-#### Boreus
+#### [[Boreas]]
 Test 
-#### Saint Nicholas
+#### [[Saint Nicholas]]
 Test

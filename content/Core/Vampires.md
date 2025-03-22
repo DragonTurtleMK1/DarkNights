@@ -1,6 +1,8 @@
 ---
 title: Vampires
-draft: "false"
+draft: 
+tags:
+  - Creature
 ---
 # What is a Vampire?
 

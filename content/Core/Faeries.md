@@ -1,7 +1,7 @@
 ---
 title: Faeries
 tags: 
-draft: "false"
+draft: false
 ---
 
 # Fae in the World
